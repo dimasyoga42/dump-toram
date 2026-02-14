@@ -1,0 +1,1563 @@
+id,name,type,upgrade,stat,created_at,route
+2380,†Dark Lord†,Enhancer Crysta (Yellow),Yashiro Azuki's Dad,"ATK % 5
+ASPD % 20
+Aggro % -10
+Short Range Damage % 3",2026-01-18 12:22:04.293234+00,Yashiro Azuki's Dad -> †Dark Lord†
+1901,Abyssal Crystal Monster,Enhancer Crysta (Purple),Zeagrysta,"MaxMP -200
+Stability % 4
+Physical Resistance % 6
+Magic Resistance % 6
+Short Range Damage % 4
+Ailment Resistance % 5",2026-01-18 12:22:04.293234+00,Zeagrysta -> Abyssal Crystal Monster
+1902,Accuracy+10,Normal Crysta,,Accuracy 10,2026-01-18 12:22:04.293234+00,-
+1903,Accuracy+12,Normal Crysta,,Accuracy 12,2026-01-18 12:22:04.293234+00,-
+1904,Accuracy+14,Normal Crysta,,Accuracy 14,2026-01-18 12:22:04.293234+00,-
+1905,Accuracy+16,Normal Crysta,,Accuracy 16,2026-01-18 12:22:04.293234+00,-
+1906,Accuracy+2,Normal Crysta,,Accuracy 2,2026-01-18 12:22:04.293234+00,-
+1907,Accuracy+4,Normal Crysta,,Accuracy 4,2026-01-18 12:22:04.293234+00,-
+1908,Accuracy+8,Normal Crysta,,Accuracy 8,2026-01-18 12:22:04.293234+00,-
+1909,Adaro,Additional Crysta,,"MaxHP 1000
+MATK % 6
+Critical Damage 6
+Aggro % 10",2026-01-18 12:22:04.293234+00,-
+1910,Ageladanios,Enhancer Crysta (Blue),Lyark Master Specialist,"ATK % 6
+Magic Resistance % -15
+Critical Damage 8
+Motion Speed % -1",2026-01-18 12:22:04.293234+00,Metal Stinger -> Lyark Master Specialist -> Ageladanios
+2386,AGI+1,Normal Crysta,,AGI +1,2026-01-25 03:40:30.434382+00,-
+1912,AGI+2,Normal Crysta,,AGI 2,2026-01-18 12:22:04.293234+00,-
+1915,AGI+5,Normal Crysta,,AGI 5,2026-01-18 12:22:04.293234+00,-
+1916,AGI+6,Normal Crysta,,AGI 6,2026-01-18 12:22:04.293234+00,-
+1918,Alfenix,Enhancer Crysta (Yellow),Handmade Cookie,"MaxHP % 18
+ATK % 3
+Physical Pierce % 10
+Aggro % -15",2026-01-18 12:22:04.293234+00,Handmade Cookie -> Alfenix
+1919,Altadar,Armor Crysta,,"STR % 6
+VIT % 6
+Stability % 11
+Long Range Damage % 11
+Short Range Damage % 11
+Stability % -5",2026-01-18 12:22:04.293234+00,-
+1920,Altoblepas,Additional Crysta,,"DEX % 1
+Accuracy % -20
+Critical Damage 4",2026-01-18 12:22:04.293234+00,-
+1921,Amalgam,Enhancer Crysta (Purple),Deniala,"MaxHP 2000
+Attack MP Recovery 9",2026-01-18 12:22:04.293234+00,Viscum -> Deniala -> Amalgam
+1922,Amargon,Enhancer Crysta (Yellow),Candela II,"MaxHP % 30
+MaxMP -300
+ASPD 800",2026-01-18 12:22:04.293234+00,Candela -> Candela II -> Amargon
+1923,Amoeba Machina,Enhancer Crysta (Blue),Crimsosch,"AGI 6
+Dodge 5
+Critical Rate -6
+Evasion Recharge % 4",2026-01-18 12:22:04.293234+00,Crimsosch -> Amoeba Machina
+1924,Ancient Empress,Additional Crysta,,"MATK % 3
+CSPD % 50
+Short Range Damage % -10",2026-01-18 12:22:04.293234+00,-
+1925,Ancient Empress II,Enhancer Crysta (Yellow),Ancient Empress,"MATK % 5
+CSPD % 30
+Short Range Damage % -20",2026-01-18 12:22:04.293234+00,Ancient Empress -> Ancient Empress II
+1926,Arachnidemon,Armor Crysta,,"MaxHP -400
+MaxMP -400
+ATK % 8
+Critical Rate 8
+Short Range Damage % 4",2026-01-18 12:22:04.293234+00,-
+1927,Aranea,Normal Crysta,,"MaxHP 400
+MaxMP 200
+Aggro % 1",2026-01-18 12:22:04.293234+00,-
+1928,Arbogazella,Weapon Crysta,,"MaxHP % -28
+Accuracy % 14
+Long Range Damage % 7",2026-01-18 12:22:04.293234+00,-
+1929,Arcoiris,Armor Crysta,,"Natural HP Regen % 10
+MaxHP % 10
+DEF % 10",2026-01-18 12:22:04.293234+00,-
+1930,Armasite,Weapon Crysta,,"MATK % 5
+Magic Pierce % 20
+CSPD % -15",2026-01-18 12:22:04.293234+00,-
+1931,ASPD+100,Normal Crysta,,ASPD 100,2026-01-18 12:22:04.293234+00,-
+1932,ASPD+120,Normal Crysta,,ASPD 120,2026-01-18 12:22:04.293234+00,-
+1933,ASPD+140,Normal Crysta,,ASPD 140,2026-01-18 12:22:04.293234+00,-
+1934,ASPD+160,Normal Crysta,,ASPD 160,2026-01-18 12:22:04.293234+00,-
+1935,ASPD+20,Normal Crysta,,ASPD 20,2026-01-18 12:22:04.293234+00,-
+1936,ASPD+40,Normal Crysta,,ASPD 40,2026-01-18 12:22:04.293234+00,-
+1937,ASPD+60,Normal Crysta,,ASPD 60,2026-01-18 12:22:04.293234+00,-
+1938,ASPD+80,Normal Crysta,,ASPD 80,2026-01-18 12:22:04.293234+00,-
+1939,Astol,Normal Crysta,,"DEF % -10
+Magic Resistance % 1
+Evasion Recharge % 3",2026-01-18 12:22:04.293234+00,-
+1940,Aubergine Dragon Auvio,Special Crysta,,"MaxMP 300
+ASPD 500
+Short Range Damage % 4
+Long Range Damage % -12
+Critical Rate 5
+Unsheathe Attack % 5",2026-01-18 12:22:04.293234+00,-
+1941,Aubermight,Armor Crysta,,"MaxHP % 15
+DEF 45
+Aggro % 30",2026-01-18 12:22:04.293234+00,-
+1942,B.B. Goblin,Normal Crysta,,"ATK % 2
+Critical Rate -1
+Aggro % 5",2026-01-18 12:22:04.293234+00,-
+1943,Baavgai,Enhancer Crysta (Green),Dreamy Scarlet Sakura,"MaxHP 7000
+Critical Damage 7
+Short Range Damage % 5",2026-01-18 12:22:04.293234+00,Cerabes -> Mimesia -> Dreamy Scarlet Sakura -> Baavgai
+1944,Bakuzan,Enhancer Crysta (Red),Trickster Dragon Mimyugon,"DEX % 9
+ATK % 11
+ASPD % 7",2026-01-18 12:22:04.293234+00,Ganglef -> Tyrant Machina -> Vulture -> Trickster Dragon Mimyugon -> Bakuzan
+1945,Bangrudom,Armor Crysta,,"MaxHP % -20
+ATK % 10
+MATK % 10
+ASPD % 10
+CSPD % 10
+DEX % 5
+Magic Pierce % 5",2026-01-18 12:22:04.293234+00,-
+1946,Baphomela,Enhancer Crysta (Yellow),Twilight Dragon,"Short Range Damage % 6
+Long Range Damage % 6
+Unsheathe Attack % 6",2026-01-18 12:22:04.293234+00,Twilight Dragon -> Baphomela
+1947,Bemoz,Enhancer Crysta (Green),Sibylares,"MaxMP -150
+ATK % 6
+MATK % 6
+Physical Pierce % 8
+Magic Pierce % 8
+Critical Rate 17",2026-01-18 12:22:04.293234+00,Sibylares -> Bemoz
+1948,Bexiz,Special Crysta,,"MaxMP -100
+Accuracy % 15
+Critical Rate 5
+Weapon ATK % 10",2026-01-18 12:22:04.293234+00,-
+1949,Big Coryn,Normal Crysta,,"Physical Resistance % 1
+Magic Resistance % 1
+Ailment Resistance % 1",2026-01-18 12:22:04.293234+00,-
+1950,Biskyva,Enhancer Crysta (Green),Gordel,"MaxMP 900
+Critical Rate 7
+Critical Damage % 2
+Fractional Barrier % 19",2026-01-18 12:22:04.293234+00,Ifrid -> Mom Fluck -> Gordel -> Biskyva
+1951,Black Knight of Delusion,Weapon Crysta,,"STR % 3
+ATK % 4
+DEF % -9
+Critical Rate % 2",2026-01-18 12:22:04.293234+00,-
+1952,Black Lixi,Special Crysta,,"ASPD 300
+Ailment Resistance % 10
+Aggro % 40
+Attack MP Recovery 20
+Fractional Barrier % 10
+Barrier Cooldown % 10",2026-01-18 12:22:04.293234+00,-
+1953,Black Shadow,Enhancer Crysta (Blue),Tuscog,"MaxMP -150
+ATK % 8
+MATK % 8
+Attack MP Recovery 3",2026-01-18 12:22:04.293234+00,Brutal Dragon Decel -> York -> Tuscog -> Black Shadow
+1954,Black Velly,Enhancer Crysta (Green),Evil Shadow,"MaxHP 3000
+MaxMP 400
+MATK % 9
+Evasion Recharge % -20",2026-01-18 12:22:04.293234+00,Evil Shadow -> Black Velly
+1955,Blancanine the White Fang,Weapon Crysta,,"AGI % 4
+MaxHP % -12
+ATK % 7
+Attack MP Recovery 1",2026-01-18 12:22:04.293234+00,-
+1956,Blazingur,Enhancer Crysta (Blue),Aranea,"MaxHP 600
+MaxMP 300
+Aggro % 2",2026-01-18 12:22:04.293234+00,Aranea -> Blazingur
+1957,Blood Smeared Crystal,Enhancer Crysta (Red),Evil Magic Sword,"Critical Damage 6
+Aggro % 10
+Attack MP Recovery 7",2026-01-18 12:22:04.293234+00,Evil Magic Sword -> Blood Smeared Crystal
+1958,Boss Colon,Normal Crysta,,"MaxHP 70
+MaxMP 30",2026-01-18 12:22:04.293234+00,-
+1959,Boss Goblin,Normal Crysta,,"ATK % 1
+Accuracy -4
+Critical Rate % 2",2026-01-18 12:22:04.293234+00,-
+1960,Boss Roga,Armor Crysta,,"MaxHP 1000
+Weapon ATK % 1",2026-01-18 12:22:04.293234+00,-
+1961,Bovinio,Additional Crysta,,"2 Metal
+Drop Rate % 1",2026-01-18 12:22:04.293234+00,-
+1962,Brass Dragon Reguita,Enhancer Crysta (Red),Repthon,"Natural HP Regen % -12
+Natural MP Regen % -12
+ATK % 10
+MATK % 10",2026-01-18 12:22:04.293234+00,Zolban -> Repthon -> Brass Dragon Reguita
+1963,Brassozard,Enhancer Crysta (Blue),Volotur,"STR % 3
+ATK % 3
+Accuracy % -10
+Critical Rate % -10
+Critical Damage 3",2026-01-18 12:22:04.293234+00,Gigant Knight -> Volotur -> Brassozard
+1964,Breeta,Enhancer Crysta (Purple),Crysmort,"MaxHP 5000
+Stability % 2
+Attack MP Recovery 15",2026-01-18 12:22:04.293234+00,Viscum -> Deniala -> Amalgam -> Crysmort -> Breeta
+1965,Broker Goblin,Special Crysta,,"DEX % 3
+MaxMP 300
+Long Range Damage % 3
+Aggro % 25
+Additional Melee % 50
+Long Range Damage % 5",2026-01-18 12:22:04.293234+00,-
+1966,Brutal Dragon Decel,Normal Crysta,,"MaxMP -50
+ATK % 1
+MATK % 1",2026-01-18 12:22:04.293234+00,-
+1967,Bubble Bogey,Enhancer Crysta (Red),Lapin The Necromancer,"CSPD 200
+Magic Barrier 200
+Additional Magic % 125",2026-01-18 12:22:04.293234+00,Lapin The Necromancer -> Bubble Bogey
+1968,Builder Golem,Enhancer Crysta (Red),Excavated Golem,"Guard Power % 7
+Guard Recharge % 7",2026-01-18 12:22:04.293234+00,Excavated Golem -> Builder Golem
+1969,Bullamius,Enhancer Crysta (Blue),Salamander,"MaxMP 250
+ATK % 3
+MATK % 3",2026-01-18 12:22:04.293234+00,Gespenst -> Salamander -> Bullamius
+1970,Burning Dragon Igneus,Enhancer Crysta (Yellow),King Piton,"AGI % 3
+Critical Rate 15
+Critical Damage 8",2026-01-18 12:22:04.293234+00,Warmonger -> Proto Leon -> King Piton -> Burning Dragon Igneus
+1971,Cake Potum,Enhancer Crysta (Blue),Platinum Potum,"MaxHP % 30
+Physical Resistance % -15
+Magic Resistance % -15",2026-01-18 12:22:04.293234+00,King Potum -> Platinum Potum -> Cake Potum
+1972,Candela,Additional Crysta,,"MaxHP % 10
+MaxMP -200
+ASPD 500",2026-01-18 12:22:04.293234+00,-
+1973,Candela II,Enhancer Crysta (Yellow),Candela,"MaxHP % 20
+MaxMP -250
+ASPD 600",2026-01-18 12:22:04.293234+00,Candela -> Candela II
+1974,Canemofish,Armor Crysta,,"Water resistance % 10
+Attack MP Recovery 10
+Barrier Cooldown % 10",2026-01-18 12:22:04.293234+00,-
+1975,Capo Profundo,Enhancer Crysta (Green),Daddy Finpen,"MaxHP % 16
+Physical Resistance % 12
+Guard Recharge % 8",2026-01-18 12:22:04.293234+00,Tortuga -> Daddy Finpen -> Capo Profundo
+1976,Captain Amiya,Special Crysta,,"MaxHP 1000
+MaxMP 100
+Attack MP Recovery 10",2026-01-18 12:22:04.293234+00,-
+1977,Carbuncle,Normal Crysta,,"MaxHP 1000
+Dodge % -10
+Reflect % 10",2026-01-18 12:22:04.293234+00,-
+1978,Caspy,Normal Crysta,,"Ailment Resistance % -6
+Guard Power % 2
+Guard Recharge % 2
+Evasion Recharge % 2",2026-01-18 12:22:04.293234+00,-
+1979,Castilia,Additional Crysta,,"Accuracy % 10
+ASPD -900
+Short Range Damage % 12
+Long Range Damage % 6
+Motion Speed % 5
+Magic Pierce % 10",2026-01-18 12:22:04.293234+00,-
+1980,Cat Claw Guardkissa,Enhancer Crysta (Red),Blancanine the White Fang,"AGI % 4
+MaxHP % -12
+ATK % 10
+Ailment Resistance % 2
+Attack MP Recovery 2",2026-01-18 12:22:04.293234+00,Blancanine the White Fang -> Cat Claw Guardkissa
+1981,Cerabes,Armor Crysta,,"MaxHP 1000
+Critical Damage 1",2026-01-18 12:22:04.293234+00,-
+1982,Cerberus,Armor Crysta,,"Physical Pierce % 3
+Critical Damage 3
+Unsheathe Attack % 3",2026-01-18 12:22:04.293234+00,-
+1983,Charugon,Enhancer Crysta (Blue),Flare Volg,"STR 6
+Magic Resistance % -12
+Short Range Damage % 3
+Long Range Damage % 6",2026-01-18 12:22:04.293234+00,Flare Volg -> Charugon
+1984,Chocolate Ooze,Additional Crysta,,"MaxHP % -10
+MaxMP 200
+CSPD 500",2026-01-18 12:22:04.293234+00,-
+1985,Chocolate Ooze II,Enhancer Crysta (Yellow),Chocolate Ooze,"MaxHP % -15
+MaxMP 300
+CSPD 600",2026-01-18 12:22:04.293234+00,Chocolate Ooze -> Chocolate Ooze II
+1986,Choiyaki Mentai,Special Crysta,,"MaxMP 300
+MATK % -10
+Fire resistance % 1
+Short Range Damage % 2
+Reduce Dmg (Floor) % -20",2026-01-18 12:22:04.293234+00,-
+1987,Clawed Iron Witch,Enhancer Crysta (Red),Zahhak Machina,"Attack MP Recovery 10
+Short Range Damage % 5
+Physical Barrier 2000
+Magic Barrier 2000",2026-01-18 12:22:04.293234+00,Zahhak Machina -> Clawed Iron Witch
+1988,Colon Boss,Enhancer Crysta (Blue),Boss Goblin,"MATK % 10
+Accuracy -40
+Critical Rate % 20",2026-01-18 12:22:04.293234+00,Boss Goblin -> Colon Boss
+1989,Colon Commander,Armor Crysta,,"MaxHP 150
+MaxMP 50",2026-01-18 12:22:04.293234+00,-
+1990,Commander Golem,Weapon Crysta,,"ASPD 100
+Physical Barrier 100
+Additional Melee % 100",2026-01-18 12:22:04.293234+00,-
+1991,Corroded Knight Captain,Additional Crysta,,"DEF 100
+MDEF 100
+Physical Barrier 500
+Magic Barrier 500",2026-01-18 12:22:04.293234+00,-
+1992,Crimson One-Eyed Wolf,Weapon Crysta,,"Physical Resistance % -16
+Magic Resistance % -8
+Short Range Damage % 8
+Anticipate % 4
+Critical Damage % 1
+Aggro % -20",2026-01-18 12:22:04.293234+00,-
+1993,Crimsosch,Normal Crysta,,"AGI 3
+Dodge 3
+Critical Rate -9
+Evasion Recharge % 3",2026-01-18 12:22:04.293234+00,-
+1994,Critical Rate +4,Normal Crysta,,Critical Rate 4,2026-01-18 12:22:04.293234+00,-
+1995,Critical Rate +5,Normal Crysta,,Critical Rate 5,2026-01-18 12:22:04.293234+00,-
+1996,Critical Rate+1,Normal Crysta,,Critical Rate 1,2026-01-18 12:22:04.293234+00,-
+1997,Critical Rate+2,Normal Crysta,,Critical Rate 2,2026-01-18 12:22:04.293234+00,-
+1998,Critical Rate+3,Normal Crysta,,Critical Rate 3,2026-01-18 12:22:04.293234+00,-
+1999,Crysmort,Enhancer Crysta (Purple),Amalgam,"MaxHP 3000
+Stability % 1
+Attack MP Recovery 11",2026-01-18 12:22:04.293234+00,Viscum -> Deniala -> Amalgam -> Crysmort
+2000,Crystal Titan,Special Crysta,,"MaxHP 1000
+MaxHP % 10
+Fractional Barrier % 10",2026-01-18 12:22:04.293234+00,-
+2001,CSPD+100,Normal Crysta,,CSPD 100,2026-01-18 12:22:04.293234+00,-
+2002,CSPD+120,Normal Crysta,,CSPD 120,2026-01-18 12:22:04.293234+00,-
+2003,CSPD+140,Normal Crysta,,CSPD 140,2026-01-18 12:22:04.293234+00,-
+2004,CSPD+160,Normal Crysta,,CSPD 160,2026-01-18 12:22:04.293234+00,-
+2005,CSPD+20,Normal Crysta,,CSPD 20,2026-01-18 12:22:04.293234+00,-
+2006,CSPD+40,Normal Crysta,,CSPD 40,2026-01-18 12:22:04.293234+00,-
+2007,CSPD+60,Normal Crysta,,CSPD 60,2026-01-18 12:22:04.293234+00,-
+2008,CSPD+80,Normal Crysta,,CSPD 80,2026-01-18 12:22:04.293234+00,-
+2009,Cursed Crysta,Weapon Crysta,,"ATK % 5
+MATK % 5
+Stability % 5
+Motion Speed % 5
+Recoil % 20",2026-01-18 12:22:04.293234+00,-
+2010,Daddy Finpen,Enhancer Crysta (Green),Tortuga,"MaxHP % 6
+Physical Resistance % 6
+Guard Recharge % 6",2026-01-18 12:22:04.293234+00,Tortuga -> Daddy Finpen
+2011,Dandolion,Enhancer Crysta (Green),Super Death Mushroom,"MaxMP 500
+CSPD 300
+Attack MP Recovery 4
+Stability % 6",2026-01-18 12:22:04.293234+00,Jade Raptor -> Super Death Mushroom -> Dandolion
+2012,Dark Captain with B,Special Crysta,,"MaxHP 3000
+MaxMP -150
+Fire resistance % 10
+Water resistance % 10
+Wind resistance % 10
+Earth resistance % 15
+Short Range Damage % 3
+Unsheathe Attack % 3",2026-01-18 12:22:04.293234+00,-
+2013,Dark Mushroom,Special Crysta,,"ATK % 1
+MATK % 1
+Motion Speed % 1",2026-01-18 12:22:04.293234+00,-
+2387,Dark Spinebore,Enhancer Crysta (Green),Capo  Profundo,"Guard Recharge % 10
+ Physical Resistance % 18
+ MaxHP % 26
+ Fractional Barrier % 5",2026-01-29 08:36:14.767133+00,Tortuga -> Daddy Finpen -> Capo Profundo -> Dark Spinebore
+2014,Death Colon,Weapon Crysta,,"MaxMP -2000
+ASPD 1000
+Short Range Damage % 10",2026-01-18 12:22:04.293234+00,-
+2015,Deformis,Enhancer Crysta (Red),Velum,"MaxMP -200
+ATK % 11
+Attack MP Recovery 8
+Anticipate % 14",2026-01-18 12:22:04.293234+00,Imitator -> Mardula -> Velum -> Deformis
+2016,Demon's Gate,Weapon Crysta,,"DEX % 2
+MATK % 3
+CSPD % 1",2026-01-18 12:22:04.293234+00,-
+2017,Demonic Eye,Enhancer Crysta (Green),Demonic Quasar,"MaxHP 1000
+ASPD 300
+Tumble Unavailable 1",2026-01-18 12:22:04.293234+00,Demonic Quasar -> Demonic Eye
+2018,Demonic Quasar,Armor Crysta,,"MaxMP 1000
+CSPD 300
+Motion Speed % 1",2026-01-18 12:22:04.293234+00,-
+2019,Deniala,Enhancer Crysta (Purple),Viscum,"MaxHP 1000
+Attack MP Recovery 6",2026-01-18 12:22:04.293234+00,Viscum -> Deniala
+2020,Devil Dango,Weapon Crysta,,"MaxMP -200
+ATK % 4
+Physical Pierce % 20
+Ailment Resistance % -15
+Aggro % -10",2026-01-18 12:22:04.293234+00,-
+2021,DEX+1,Normal Crysta,,DEX 1,2026-01-18 12:22:04.293234+00,-
+2022,DEX+2,Normal Crysta,,DEX 2,2026-01-18 12:22:04.293234+00,-
+2023,DEX+3,Normal Crysta,,DEX 3,2026-01-18 12:22:04.293234+00,-
+2024,DEX+4,Normal Crysta,,DEX 4,2026-01-18 12:22:04.293234+00,-
+2025,DEX+5,Normal Crysta,,DEX 5,2026-01-18 12:22:04.293234+00,-
+2026,Dex+6,Normal Crysta,,DEX 6,2026-01-18 12:22:04.293234+00,-
+2027,DEX+7,Normal Crysta,,DEX 7,2026-01-18 12:22:04.293234+00,-
+2028,DEX+8,Normal Crysta,,DEX 8,2026-01-18 12:22:04.293234+00,-
+2029,Diark,Enhancer Crysta (Red),,"MATK % 8
+Magic Pierce % 20
+CSPD % -16",2026-01-18 12:22:04.293234+00,Diark
+2030,Doctor Pom Pom,Armor Crysta,,"Critical Rate % 7
+Ailment Resistance % 7
+Short Range Damage % 7",2026-01-18 12:22:04.293234+00,-
+2031,Dodge+10,Normal Crysta,,Dodge 10,2026-01-18 12:22:04.293234+00,-
+2032,Dodge+12,Normal Crysta,,Dodge 12,2026-01-18 12:22:04.293234+00,-
+2033,Dodge+14,Normal Crysta,,Dodge 14,2026-01-18 12:22:04.293234+00,-
+2034,Dodge+16,Normal Crysta,,Dodge 16,2026-01-18 12:22:04.293234+00,-
+2035,Dodge+2,Normal Crysta,,Dodge 2,2026-01-18 12:22:04.293234+00,-
+2036,Dodge+4,Normal Crysta,,Dodge 4,2026-01-18 12:22:04.293234+00,-
+2037,Dodge+6,Normal Crysta,,Dodge 6,2026-01-18 12:22:04.293234+00,-
+2038,Dodge+8,Normal Crysta,,Dodge 8,2026-01-18 12:22:04.293234+00,-
+2039,Dominaredor,Enhancer Crysta (Purple),Lalvada,"ATK % 8
+MATK % 8
+ASPD % 20
+Reduce Dmg (Floor) % 20",2026-01-18 12:22:04.293234+00,Ooze -> Lalvada -> Dominaredor
+2040,Don Profundo,Enhancer Crysta (Red),Hexter,"STR % 7
+ATK % 10
+DEF % -27
+Critical Rate % 8",2026-01-18 12:22:04.293234+00,Black Knight of Delusion -> Gwaimol -> Hexter -> Don Profundo
+2041,Don Yeti,Special Crysta,,"ATK 100
+ASPD -1000",2026-01-18 12:22:04.293234+00,-
+2042,Doridodi,Enhancer Crysta (Red),Arbogazella,"MaxHP % -25
+Accuracy % 17
+Long Range Damage % 10",2026-01-18 12:22:04.293234+00,Arbogazella -> Doridodi
+2043,Dr. Leonardo,Armor Crysta,,"MaxHP 5000
+MATK % 2
+Critical Rate % 10
+Ailment Resistance % 5
+Long Range Damage % 6",2026-01-18 12:22:04.293234+00,-
+2044,Dr. Leonardo II,Enhancer Crysta (Green),Dr. Leonardo,"MaxHP 6000
+MATK % 3
+Critical Rate % 20
+Ailment Resistance % 5
+Long Range Damage % 6",2026-01-18 12:22:04.293234+00,Dr. Leonardo -> Dr. Leonardo II
+2045,Dragon Witch,Special Crysta,,"Critical Damage % 5
+Attack MP Recovery % -100",2026-01-18 12:22:04.293234+00,-
+2046,Drama Clown,Weapon Crysta,,"Accuracy % 10
+ASPD 200
+CSPD 200
+Critical Rate 10",2026-01-18 12:22:04.293234+00,-
+2047,Dreamy Scarlet Sakura,Enhancer Crysta (Green),Mimesia,"MaxHP 4000
+Critical Damage 4
+Short Range Damage % 2",2026-01-18 12:22:04.293234+00,Cerabes -> Mimesia -> Dreamy Scarlet Sakura
+2048,Dusk Machina,Additional Crysta,,"MaxHP % 20
+Aggro % 10
+Long Range Damage % -10",2026-01-18 12:22:04.293234+00,-
+2049,Dutannen,Enhancer Crysta (Blue),Shawle,"Accuracy % 30
+Aggro % 10
+Anticipate % 6
+Guard Break % 6",2026-01-18 12:22:04.293234+00,Shawle -> Dutannen
+2050,DX Fighter,Armor Crysta,,"MaxHP 5000
+ATK % 2
+Accuracy % 10
+Short Range Damage % 6
+Fractional Barrier % 5",2026-01-18 12:22:04.293234+00,-
+2051,DX Fighter II,Enhancer Crysta (Green),DX Fighter,"MaxHP 6000
+ATK % 3
+Accuracy % 15
+Short Range Damage % 6
+Fractional Barrier % 5",2026-01-18 12:22:04.293234+00,DX Fighter -> DX Fighter II
+2052,Eerie Crystal,Special Crysta,,Attack MP Recovery 5,2026-01-18 12:22:04.293234+00,-
+2053,Eidenliebe,Additional Crysta,,"MaxHP % 12
+Magic Pierce % 10
+Aggro % -15",2026-01-18 12:22:04.293234+00,-
+2054,Eripmav,Enhancer Crysta (Yellow),Neewollah,"Critical Damage 6
+Fire resistance % 12
+Attack MP Recovery 18",2026-01-18 12:22:04.293234+00,Pumpking -> Jeila -> Zoe -> Zarth -> Neewollah -> Eripmav
+2055,Erkuch,Enhancer Crysta (Yellow),Garnache,"MaxHP % 24
+MATK % 10
+Magic Pierce % 10
+Aggro % -15
+Motion Speed % 1",2026-01-18 12:22:04.293234+00,Eidenliebe -> Garnache -> Erkuch
+2056,Eroded Pilz,Armor Crysta,,"MaxHP % 30
+Physical Resistance % -10
+Magic Resistance % -10",2026-01-18 12:22:04.293234+00,-
+2057,Espectro,Enhancer Crysta (Purple),Shining Gentleman,"ATK % 2
+MATK % 2
+Critical Damage % 2
+Attack MP Recovery 4",2026-01-18 12:22:04.293234+00,Shining Gentleman -> Espectro
+2058,Etoise,Enhancer Crysta (Purple),Volgagon,"ASPD 1100
+CSPD % -70
+Critical Rate % 40
+Motion Speed % 5",2026-01-18 12:22:04.293234+00,Volgagon -> Etoise
+2059,Evil Crystal Beast,Weapon Crysta,,"MATK % 4
+Magic Pierce % 3
+Aggro % -5",2026-01-18 12:22:04.293234+00,-
+2060,Evil Lefina,Additional Crysta,,"ATK % 8
+MATK % -4
+Physical Pierce % 10
+Physical Resistance % -20
+Critical Rate 12
+Physical Resistance % 24",2026-01-18 12:22:04.293234+00,-
+2061,Evil Magic Sword,Weapon Crysta,,"Critical Damage 5
+Aggro % 10
+Attack MP Recovery 5",2026-01-18 12:22:04.293234+00,-
+2062,Evil Shadow,Armor Crysta,,"MaxHP 1500
+MaxMP 300
+MATK % 6
+Evasion Recharge % -10",2026-01-18 12:22:04.293234+00,-
+2063,Excavated Golem,Weapon Crysta,,"Guard Power % 5
+Guard Recharge % 5",2026-01-18 12:22:04.293234+00,-
+2064,Exdocus,Enhancer Crysta (Yellow),Corroded Knight Captain,"DEF 150
+MDEF 150
+Physical Barrier 1500
+Magic Barrier 1500",2026-01-18 12:22:04.293234+00,Corroded Knight Captain -> Exdocus
+2065,Falburrows,Additional Crysta,,"MaxMP 200
+Dodge % 10
+Long Range Damage % 9
+Absolute Dodge % 5
+Short Range Damage % 9",2026-01-18 12:22:04.293234+00,-
+2066,Fanadon,Normal Crysta,,"Critical Damage 3
+Reduce Dmg (Player Epicenter) % -3
+Reduce Dmg (Foe Epicenter) % -3",2026-01-18 12:22:04.293234+00,-
+2067,Fantica,Enhancer Crysta (Yellow),Grylle,"MaxHP 5000
+DEF % 10
+Guard Power % 15",2026-01-18 12:22:04.293234+00,Grylle -> Fantica
+2068,Felicitoad,Enhancer Crysta (Yellow),G. Iconos,"MaxHP 2000
+Reduce Dmg (Charge) % 10
+Reduce Dmg (Straight Line) % 10",2026-01-18 12:22:04.293234+00,G. Iconos -> Felicitoad
+2069,Felien,Special Crysta,,"MaxMP 300
+Accuracy 20
+Accuracy % 10
+Absolute Accuracy % 5",2026-01-18 12:22:04.293234+00,-
+2070,Ferzen the Rock Dragon,Enhancer Crysta (Green),Sapphire Roga,"MaxHP 5000
+Weapon ATK % 5",2026-01-18 12:22:04.293234+00,Boss Roga -> Iconos -> Ornlarf -> Sapphire Roga -> Ferzen the Rock Dragon
+2071,Filrocas,Enhancer Crysta (Green),Eroded Pilz,"MaxHP % 60
+Physical Resistance % -7
+Magic Resistance % -7
+Aggro % 15
+1-Handed Sword only:
+Aggro % 15",2026-01-18 12:22:04.293234+00,Eroded Pilz -> Filrocas
+2072,Finstern the Dark Dragon,Enhancer Crysta (Red),Imitacia,"MaxMP 300
+MATK % 7
+Guard Break % 12",2026-01-18 12:22:04.293234+00,Imitacia -> Finstern the Dark Dragon
+2073,Flare Volg,Normal Crysta,,"STR 3
+Magic Resistance % -4
+Long Range Damage % 2",2026-01-18 12:22:04.293234+00,-
+2074,Florizard,Enhancer Crysta (Red),Armasite,"Stability % 5
+Magic Pierce % 20
+Aggro % -15",2026-01-18 12:22:04.293234+00,Armasite -> Florizard
+2075,Forbidden Shawle,Enhancer Crysta (Yellow),Prudent Blue Shadow,"MaxMP -200
+Short Range Damage % 10
+Long Range Damage % 10
+Unsheathe Attack % 10",2026-01-18 12:22:04.293234+00,Twilight Dragon -> Baphomela -> Prudent Blue Shadow -> Forbidden Shawle
+2076,Forest Wolf,Normal Crysta,,"Dodge 6
+Evasion Recharge % 2",2026-01-18 12:22:04.293234+00,-
+2077,Forestia,Armor Crysta,,"MATK % 1
+Magic Resistance % 3
+Evasion Recharge % 5",2026-01-18 12:22:04.293234+00,-
+2078,Frenzy Viola,Special Crysta,,"ATK % 1
+ASPD 250
+Additional Melee % 50",2026-01-18 12:22:04.293234+00,-
+2079,Fubbit,Enhancer Crysta (Red),Devil Dango,"MaxMP -200
+ATK % 6
+Physical Pierce % 20
+Ailment Resistance % -15
+Aggro % -15",2026-01-18 12:22:04.293234+00,Devil Dango -> Fubbit
+2080,G. Iconos,Additional Crysta,,"MaxHP 1000
+Reduce Dmg (Charge) % 10",2026-01-18 12:22:04.293234+00,-
+2081,Galegon,Enhancer Crysta (Green),Thug Golem,"CSPD % 20
+Aggro % -30
+Fractional Barrier % 10",2026-01-18 12:22:04.293234+00,Thug Golem -> Galegon
+2082,Ganglef,Weapon Crysta,,"DEX % 2
+ATK % 3
+ASPD % 1",2026-01-18 12:22:04.293234+00,-
+2083,Garnache,Enhancer Crysta (Yellow),Eidenliebe,"MaxHP % 18
+MATK % 3
+Magic Pierce % 10
+Aggro % -15",2026-01-18 12:22:04.293234+00,Eidenliebe -> Garnache
+2084,Gegner,Enhancer Crysta (Green),Yule Cat,"INT % 6
+MATK % 10
+CSPD % 40
+Attack MP Recovery % 10",2026-01-18 12:22:04.293234+00,Noeliel -> Noeliel the Ice Statue -> Yule Cat -> Gegner
+2085,Gemma,Enhancer Crysta (Green),Pyxtica,"Physical Pierce % 5
+Critical Damage 6
+Unsheathe Attack % 7",2026-01-18 12:22:04.293234+00,Cerberus -> Pyxtica -> Gemma
+2086,Gerumi,Normal Crysta,,"MaxHP 200
+MaxMP 100",2026-01-18 12:22:04.293234+00,-
+2087,Gespenst,Normal Crysta,,"MaxMP 150
+ATK % -1
+MATK % -1",2026-01-18 12:22:04.293234+00,-
+2088,Gespenst II,Additional Crysta,,"MaxMP 200
+Accuracy 30
+CSPD 400
+Critical Rate 10",2026-01-18 12:22:04.293234+00,-
+2089,Ghost Forest Dark Shaman,Special Crysta,,"MaxMP -300
+Magic Pierce % 5
+CSPD % 20
+Evasion Recharge % 10
+ATK % -10
+Stability % 5",2026-01-18 12:22:04.293234+00,-
+2090,Giant Boar,Additional Crysta,,"MaxHP 50
+MaxMP 50
+Short Range Damage % 1",2026-01-18 12:22:04.293234+00,-
+2091,Giant Moon Crab,Enhancer Crysta (Red),Ganglef,"VIT % 4
+ATK % 6
+Motion Speed % 1",2026-01-18 12:22:04.293234+00,Ganglef -> Giant Moon Crab
+2092,Giant Pelulu,Additional Crysta,,"MaxHP % 30
+MaxMP -100
+Critical Rate % 50
+Short Range Damage % 10
+Physical Pierce % -10",2026-01-18 12:22:04.293234+00,-
+2093,Gigant Knight,Normal Crysta,,"STR % 1
+ATK % 1
+Accuracy % -10
+Critical Rate % -10
+Critical Damage 1",2026-01-18 12:22:04.293234+00,-
+2094,Gigantic Octopus,Normal Crysta,,"ASPD 150
+CSPD 200
+Critical Rate 10
+Fire resistance % -4
+Ailment Resistance % -2
+Attack MP Recovery 5
+Reduce Dmg (Bowling) % -1",2026-01-18 12:22:04.293234+00,-
+2388,gioco,Enhancer Crysta (Blue),Red Ash Dragon Rudis,"Short Range Damage % 12
+ accuracy % 7
+ MaxMP  + 200
+ Cirtical Rate -9
+ MaxHP -500",2026-01-29 08:38:35.48024+00,Gravicep -> Red Ash Dragon Rudis -> gioco
+2095,Glaucius,Enhancer Crysta (Green),Forestia,"MATK % 6
+Magic Resistance % 6
+Evasion Recharge % 15
+MATK UP (AGI %) 25",2026-01-18 12:22:04.293234+00,Forestia -> Glaucius
+2096,Glocke,Enhancer Crysta (Green),Black Velly,"MaxHP 4500
+MaxMP 500
+MATK % 12
+Evasion Recharge % -30",2026-01-18 12:22:04.293234+00,Evil Shadow -> Black Velly -> Glocke
+2097,Goblin Zucotto,Enhancer Crysta (Yellow),Alfenix,"MaxHP % 24
+ATK % 10
+Physical Pierce % 10
+Aggro % -15
+Motion Speed % 1",2026-01-18 12:22:04.293234+00,Handmade Cookie -> Alfenix -> Goblin Zucotto
+2098,Golden Potum,Special Crysta,,Drop Rate % 1,2026-01-18 12:22:04.293234+00,-
+2099,Golden Skeleton,Additional Crysta,,"MaxHP % -10
+ASPD 300",2026-01-18 12:22:04.293234+00,-
+2100,Goldenia,Additional Crysta,,"MaxHP 2000
+MaxMP -300
+Fractional Barrier % 10",2026-01-18 12:22:04.293234+00,-
+2101,Goldigem,Enhancer Crysta (Yellow),Felicitoad,"MaxHP 3000
+Reduce Dmg (Player Epicenter) % 10
+Reduce Dmg (Charge) % 10
+Reduce Dmg (Straight Line) % 10",2026-01-18 12:22:04.293234+00,G. Iconos -> Felicitoad -> Goldigem
+2102,Goldoon,Armor Crysta,,"ATK % 3
+MATK % 3
+Accuracy % 3
+Aggro % -3",2026-01-18 12:22:04.293234+00,-
+2103,Goleps,Enhancer Crysta (Green),Colon Commander,"MaxHP 750
+MaxMP 250",2026-01-18 12:22:04.293234+00,Colon Commander -> Goleps
+2104,Goovua,Special Crysta,,"AGI % 3
+Evasion Recharge % 6
+Unsheathe Attack 100",2026-01-18 12:22:04.293234+00,-
+2105,Gopherga,Armor Crysta,,"MaxHP 3000
+Physical Resistance % 3
+Magic Resistance % 3
+Aggro % 15
+Short Range Damage % 6",2026-01-18 12:22:04.293234+00,-
+2106,Gordel,Enhancer Crysta (Green),Mom Fluck,"MaxMP 800
+Critical Rate 3
+Fractional Barrier % 17",2026-01-18 12:22:04.293234+00,Ifrid -> Mom Fluck -> Gordel
+2107,Gordo,Enhancer Crysta (Yellow),Wandering Wheel,"ATK % 7
+ASPD % 80
+Long Range Damage % -15",2026-01-18 12:22:04.293234+00,Grass Dragon Yelb -> Wandering Wheel -> Gordo
+2108,Grand Pojo,Additional Crysta,,Drop Rate % 1,2026-01-18 12:22:04.293234+00,-
+2109,Granny,Special Crysta,,"MATK 100
+CSPD -1000",2026-01-18 12:22:04.293234+00,-
+2110,Grass Dragon Yelb,Additional Crysta,,"ATK % 3
+ASPD % 50
+Long Range Damage % -10",2026-01-18 12:22:04.293234+00,-
+2111,Gravicep,Normal Crysta,,"MaxHP -100
+MaxMP 200
+Accuracy % 3
+Critical Rate -5
+Short Range Damage % 7",2026-01-18 12:22:04.293234+00,-
+2112,Grecia,Weapon Crysta,,"ATK % 6
+MATK % 6
+Physical Pierce % 3
+Magic Pierce % 3
+Guard Recharge % -10
+Evasion Recharge % -10
+Neutral Resistance % 1
+% stronger against Neutral 1",2026-01-18 12:22:04.293234+00,-
+2113,Grim Reaper Scarecrow,Armor Crysta,,"MaxHP % -30
+Aggro % -15
+Long Range Damage % 6",2026-01-18 12:22:04.293234+00,-
+2114,Grimuckus,Special Crysta,,"MATK % 1
+ASPD 250
+Additional Magic % 50",2026-01-18 12:22:04.293234+00,-
+2115,Grylle,Additional Crysta,,"MaxHP 500
+DEF % 5
+Guard Power % 5",2026-01-18 12:22:04.293234+00,-
+2116,Guard Golem,Enhancer Crysta (Blue),Guignol,"ATK % 9
+MATK % 9
+ASPD -225
+CSPD -225",2026-01-18 12:22:04.293234+00,Nurethoth -> Guignol -> Guard Golem
+2117,Guignol,Enhancer Crysta (Blue),Nurethoth,"ATK % 5
+MATK % 5
+ASPD -175
+CSPD -175",2026-01-18 12:22:04.293234+00,Nurethoth -> Guignol
+2118,Gula,Enhancer Crysta (Yellow),Junior Dragon Zyvio,"MaxMP 200
+ATK % 10
+Critical Rate 15
+Guard Break % 10",2026-01-18 12:22:04.293234+00,Junior Dragon Zyvio -> Gula
+2119,Gwaimol,Enhancer Crysta (Red),Black Knight of Delusion,"STR % 5
+ATK % 6
+DEF % -15
+Critical Rate % 4",2026-01-18 12:22:04.293234+00,Black Knight of Delusion -> Gwaimol
+2120,Handmade Cookie,Additional Crysta,,"MaxHP % 12
+Physical Pierce % 10
+Aggro % -15",2026-01-18 12:22:04.293234+00,-
+2121,Hero Potum,Weapon Crysta,,"MaxHP % 10
+Accuracy % 10
+Aggro % 10
+Fractional Barrier % 10",2026-01-18 12:22:04.293234+00,-
+2122,Hero Potum II,Enhancer Crysta (Red),Hero Potum,"MaxHP % 11
+Accuracy % 13
+Aggro % 14
+Fractional Barrier % 12",2026-01-18 12:22:04.293234+00,Hero Potum -> Hero Potum II
+2123,Hero Potum III,Enhancer Crysta (Red),Hero Potum II,"MaxHP % 12
+Accuracy % 16
+Aggro % 18
+Fractional Barrier % 14",2026-01-18 12:22:04.293234+00,Hero Potum -> Hero Potum II -> Hero Potum III
+2124,Hero Potum IV,Enhancer Crysta (Red),,"MaxHP % 13
+Accuracy % 19
+Aggro % 22
+Fractional Barrier % 16",2026-01-18 12:22:04.293234+00,Hero Potum IV
+2125,Hexter,Enhancer Crysta (Red),Gwaimol,"STR % 6
+ATK % 8
+DEF % -21
+Critical Rate % 6",2026-01-18 12:22:04.293234+00,Black Knight of Delusion -> Gwaimol -> Hexter
+2126,HP+100,Normal Crysta,,MaxHP 100,2026-01-18 12:22:04.293234+00,-
+2127,HP+200,Normal Crysta,,MaxHP 200,2026-01-18 12:22:04.293234+00,-
+2128,HP+300,Normal Crysta,,MaxHP 300,2026-01-18 12:22:04.293234+00,-
+2129,HP+400,Normal Crysta,,MaxHP 400,2026-01-18 12:22:04.293234+00,-
+2130,HP+500,Normal Crysta,,MaxHP 500,2026-01-18 12:22:04.293234+00,-
+2131,HP+600,Normal Crysta,,MaxHP 600,2026-01-18 12:22:04.293234+00,-
+2132,HP+700,Normal Crysta,,MaxHP 700,2026-01-18 12:22:04.293234+00,-
+2133,HP+800,Normal Crysta,,MaxHP 800,2026-01-18 12:22:04.293234+00,-
+2134,Humida,Enhancer Crysta (Purple),Venena II,"MaxMP 700
+ATK % 4
+MATK % 4
+Stability % 4",2026-01-18 12:22:04.293234+00,Venena -> Venena II -> Humida
+2135,Iconos,Enhancer Crysta (Green),Boss Roga,"MaxHP 2000
+Weapon ATK % 2",2026-01-18 12:22:04.293234+00,Boss Roga -> Iconos
+2136,Ifrid,Armor Crysta,,"MaxMP 600
+Fractional Barrier % 12",2026-01-18 12:22:04.293234+00,-
+2137,Ignitrus,Special Crysta,,"MaxHP 1000
+MaxMP 100
+% stronger against Fire 5
+Fire resistance % 20",2026-01-18 12:22:04.293234+00,-
+2138,Illuminitor,Normal Crysta,,"ASPD -25
+Critical Rate % 25
+Additional Melee % 25
+Additional Magic % 25",2026-01-18 12:22:04.293234+00,-
+2139,Imitacia,Weapon Crysta,,"MaxMP 200
+MATK % 5
+Guard Break % 10",2026-01-18 12:22:04.293234+00,-
+2140,Imitator,Weapon Crysta,,"ATK % 5
+Attack MP Recovery 2
+Anticipate % 10",2026-01-18 12:22:04.293234+00,-
+2141,INT +6,Normal Crysta,,INT 6,2026-01-18 12:22:04.293234+00,-
+2142,INT+1,Normal Crysta,,INT 1,2026-01-18 12:22:04.293234+00,-
+2143,INT+2,Normal Crysta,,INT 2,2026-01-18 12:22:04.293234+00,-
+2144,INT+3,Normal Crysta,,INT 3,2026-01-18 12:22:04.293234+00,-
+2145,INT+4,Normal Crysta,,INT 4,2026-01-18 12:22:04.293234+00,-
+2146,INT+5,Normal Crysta,,INT 5,2026-01-18 12:22:04.293234+00,-
+2147,INT+7,Normal Crysta,,INT 7,2026-01-18 12:22:04.293234+00,-
+2148,Inzanio,Normal Crysta,,"Guard Recharge % 1
+Attack MP Recovery -1
+Weapon ATK 10
+Fractional Barrier % 3",2026-01-18 12:22:04.293234+00,-
+2149,Irestida,Enhancer Crysta (Red),Shampy,"MATK % 8
+Magic Pierce % 6
+MDEF % -24
+Aggro % -9",2026-01-18 12:22:04.293234+00,Evil Crystal Beast -> Shampy -> Irestida
+2150,Iron Empress,Armor Crysta,,"MaxHP % 20
+MaxMP -300
+MATK % 5
+Magic Pierce % 10
+Physical Resistance % 10
+CSPD % 20",2026-01-18 12:22:04.293234+00,-
+2151,Jade Raptor,Armor Crysta,,"MaxMP 300
+CSPD 100
+Attack MP Recovery 1",2026-01-18 12:22:04.293234+00,-
+2152,Jeandoux,Weapon Crysta,,"STR % 3
+Critical Damage 7
+Aggro % -10",2026-01-18 12:22:04.293234+00,-
+2153,Jeila,Enhancer Crysta (Yellow),Pumpking,"Critical Damage 2
+Fire resistance % 4
+Attack MP Recovery 6",2026-01-18 12:22:04.293234+00,Pumpking -> Jeila
+2154,Jibril,Additional Crysta,,"Natural MP Regen 2
+Natural MP Regen % 4
+MaxMP 100
+Critical Rate 8
+Short Range Damage % 3
+Long Range Damage % 5
+Anticipate % 1",2026-01-18 12:22:04.293234+00,-
+2155,Jibril II,Enhancer Crysta (Yellow),Jibril,"Natural MP Regen 4
+Natural MP Regen % 8
+MaxMP 100
+Critical Rate 12
+Short Range Damage % 6
+Long Range Damage % 8
+Anticipate % 2",2026-01-18 12:22:04.293234+00,Jibril -> Jibril II
+2156,Jibril III,Enhancer Crysta (Yellow),Jibril II,"Natural MP Regen 6
+Natural MP Regen % 12
+MaxMP 100
+Critical Rate 16
+Short Range Damage % 9
+Long Range Damage % 11
+Anticipate % 3",2026-01-18 12:22:04.293234+00,Jibril -> Jibril II -> Jibril III
+2157,Jiva,Enhancer Crysta (Yellow),,"DEX % 3
+MATK % 8
+Accuracy % -20
+Critical Damage 6",2026-01-18 12:22:04.293234+00,Jiva
+2158,Junior Dragon Zyvio,Additional Crysta,,"MaxMP 100
+ATK % 5
+Critical Rate 15
+Guard Break % 5",2026-01-18 12:22:04.293234+00,-
+2159,King Piton,Enhancer Crysta (Yellow),Proto Leon,"Critical Rate 10
+Critical Damage 4",2026-01-18 12:22:04.293234+00,Warmonger -> Proto Leon -> King Piton
+2160,King Potum,Normal Crysta,,"MaxHP % 10
+Physical Resistance % -5
+Magic Resistance % -5",2026-01-18 12:22:04.293234+00,-
+2161,Kruztor,Armor Crysta,,"MaxHP % 5
+Physical Resistance % 5
+Magic Resistance % 5
+Dodge % 5
+Neutral Resistance % 5",2026-01-18 12:22:04.293234+00,-
+2162,Kruztor II,Enhancer Crysta (Green),Kruztor,"MaxHP % 7
+Physical Resistance % 7
+Magic Resistance % 7
+Dodge % 7
+Neutral Resistance % 7",2026-01-18 12:22:04.293234+00,Kruztor -> Kruztor II
+2163,Kuffania,Enhancer Crysta (Blue),Mithurna Lynx,"Stability % 4
+Evasion Recharge % 4
+Short Range Damage % 4
+Long Range Damage % -12",2026-01-18 12:22:04.293234+00,Mithurna Lynx -> Kuffania
+2164,Kuzto,Weapon Crysta,,"MATK % 7
+Critical Rate 7
+Aggro % -7",2026-01-18 12:22:04.293234+00,-
+2165,Lalvada,Enhancer Crysta (Purple),Ooze,"ATK % 4
+MATK % 4
+DEF % -4
+MDEF % -4",2026-01-18 12:22:04.293234+00,Ooze -> Lalvada
+2166,Lapin The Necromancer,Weapon Crysta,,"CSPD 100
+Magic Barrier 100
+Additional Magic % 100",2026-01-18 12:22:04.293234+00,-
+2167,Lil Wonder Rat,Weapon Crysta,,"Aggro % -20
+Long Range Damage % 4
+Unsheathe Attack % 4
+MATK % 6",2026-01-18 12:22:04.293234+00,-
+2168,Lilicarolla,Enhancer Crysta (Blue),Tappler,"MaxMP -100
+Dodge % -5
+Unsheathe Attack % 11
+Unsheathe Attack % 3",2026-01-18 12:22:04.293234+00,Odelon Machina -> Tappler -> Lilicarolla
+2169,Limacina,Enhancer Crysta (Blue),Seraph Machina,"Physical Resistance % 5
+Magic Resistance % 5
+Ailment Resistance % 5",2026-01-18 12:22:04.293234+00,Big Coryn -> Seraph Machina -> Limacina
+2170,Lord of Nezim,Additional Crysta,,"VIT % 2
+MaxHP 3000
+Critical Rate 10
+Short Range Damage % 3",2026-01-18 12:22:04.293234+00,-
+2171,Lunadore,Additional Crysta,,Drop Rate % 1,2026-01-18 12:22:04.293234+00,-
+2172,Lyark Master Specialist,Enhancer Crysta (Blue),Metal Stinger,"ATK % 3
+Magic Resistance % -15
+Critical Damage 4
+Motion Speed % -2",2026-01-18 12:22:04.293234+00,Metal Stinger -> Lyark Master Specialist
+2173,Machine God Maple,Special Crysta,,"MaxMP 200
+Physical Resistance % 10
+Magic Resistance % 10
+Ailment Resistance % 5
+Short Range Damage % 10
+Fractional Barrier % 5
+Physical Resistance % 5
+Magic Resistance % 5
+Fractional Barrier % 10",2026-01-18 12:22:04.293234+00,-
+2174,Mage Filecia,Additional Crysta,,"INT % 3
+MATK % 9
+Stability % 6
+Reduce Dmg (Bowling) % 20
+Guard Break % 10",2026-01-18 12:22:04.293234+00,-
+2175,Marchitar,Weapon Crysta,,"Stability % 5
+Dodge % 15",2026-01-18 12:22:04.293234+00,-
+2176,Mardula,Enhancer Crysta (Red),Imitator,"ATK % 7
+Attack MP Recovery 4
+Anticipate % 12",2026-01-18 12:22:04.293234+00,Imitator -> Mardula
+2177,Masked Warrior,Normal Crysta,,"MaxHP % -3
+ATK % 1
+MATK % 1
+Accuracy -3
+Attack MP Recovery 2",2026-01-18 12:22:04.293234+00,-
+2178,Maton Sword,Armor Crysta,,"STR % 3
+MaxHP -1000
+Accuracy % 5
+Long Range Damage % 4",2026-01-18 12:22:04.293234+00,-
+2179,Mauez,Normal Crysta,,"MaxMP 150
+Accuracy % -4
+Critical Rate 2",2026-01-18 12:22:04.293234+00,-
+2180,Meduso,Enhancer Crysta (Red),Builder Golem,"Guard Power % 10
+Guard Recharge % 10
+Motion Speed % 1
+Aggro % 20",2026-01-18 12:22:04.293234+00,Excavated Golem -> Builder Golem -> Meduso
+2181,Mega Alpoca,Enhancer Crysta (Yellow),Giant Boar,"MaxHP 300
+MaxMP 300
+Short Range Damage % 6",2026-01-18 12:22:04.293234+00,Giant Boar -> Mega Alpoca
+2182,Megiston,Normal Crysta,,"STR 1
+INT 1
+VIT 1
+AGI 1
+DEX 1
+MaxHP 100
+MaxMP 50",2026-01-18 12:22:04.293234+00,-
+2183,Megiston The Champion,Weapon Crysta,,"MaxHP 1000
+Critical Rate 15
+Fire resistance % 3",2026-01-18 12:22:04.293234+00,-
+2184,Megiston the Champion II,Enhancer Crysta (Red),Megiston The Champion,"MaxHP 1200
+Critical Rate 16
+Fire resistance % 3
+Light resistance % 3",2026-01-18 12:22:04.293234+00,Megiston The Champion -> Megiston the Champion II
+2185,Megiston the Champion III,Enhancer Crysta (Red),Megiston the Champion II,"MaxHP 1400
+Critical Rate 18
+Fire resistance % 3
+Wind resistance % 3
+Light resistance % 3",2026-01-18 12:22:04.293234+00,Megiston The Champion -> Megiston the Champion II -> Megiston the Champion III
+2186,Megiston the Champion IV,Enhancer Crysta (Red),Megiston the Champion III,"MaxHP 1600
+Critical Rate 20
+Fire resistance % 6
+Water resistance % 3
+Wind resistance % 3
+Light resistance % 3",2026-01-18 12:22:04.293234+00,Megiston The Champion -> Megiston the Champion II -> Megiston the Champion III -> Megiston the Champion IV
+2187,Megiston the Champion V,Enhancer Crysta (Red),Megiston the Champion IV,"MaxHP 1800
+Critical Rate 23
+Fire resistance % 6
+Water resistance % 6
+Wind resistance % 3
+Earth resistance % 3
+Light resistance % 3",2026-01-18 12:22:04.293234+00,Megiston The Champion -> Megiston the Champion II -> Megiston the Champion III -> Megiston the Champion IV -> Megiston the Champion V
+2188,Megiston the Champion VI,Enhancer Crysta (Red),Megiston the Champion V,"MaxHP 2000
+Critical Rate 26
+Fire resistance % 6
+Water resistance % 6
+Wind resistance % 6
+Earth resistance % 3
+Light resistance % 3
+Dark resistance % 3",2026-01-18 12:22:04.293234+00,Megiston The Champion -> Megiston the Champion II -> Megiston the Champion III -> Megiston the Champion IV -> Megiston the Champion V -> Megiston the Champion VI
+2189,Megiston The Champion VII,Enhancer Crysta (Red),Megiston the Champion VI,"MaxHP 2200
+Critical Rate 29
+Fire resistance % 6
+Water resistance % 6
+Wind resistance % 6
+Earth resistance % 6
+Light resistance % 3
+Dark resistance % 3
+Neutral Resistance % 3",2026-01-18 12:22:04.293234+00,Megiston The Champion -> Megiston the Champion II -> Megiston the Champion III -> Megiston the Champion IV -> Megiston the Champion V -> Megiston the Champion VI -> Megiston The Champion VII
+2190,Melancia,Enhancer Crysta (Blue),Radibat,"Stability % 5
+Accuracy % 5
+Critical Rate % 5",2026-01-18 12:22:04.293234+00,Radibat -> Melancia
+2191,Memecoleous,Enhancer Crysta (Purple),Stone Mercenary,"ATK % -4
+Guard Recharge % 5
+Aggro % 12",2026-01-18 12:22:04.293234+00,Stone Mercenary -> Memecoleous
+2192,Menti,Enhancer Crysta (Red),Oculasignio,"MaxMP 300
+MATK % 11
+Guard Break % 14
+ASPD 250",2026-01-18 12:22:04.293234+00,Imitacia -> Finstern the Dark Dragon -> Oculasignio -> Menti
+2193,Mercy,Additional Crysta,,"Critical Rate 15
+Aggro % -15",2026-01-18 12:22:04.293234+00,-
+2381,merzehal ,enchancer crysta (green),iron empress,"MaxHP % 25
+ Pshical Resistance % 15
+ Matk % 13
+ Magic Pierce % 10
+ cspd % 25
+ MaxMP-200",2026-01-23 23:46:01.825482+00,iron Empress -> Merzehal
+2194,Metal Stinger,Normal Crysta,,"ATK % 2
+Magic Resistance % -10
+Critical Damage 3
+Motion Speed % -1",2026-01-18 12:22:04.293234+00,-
+2195,Meteora,Enhancer Crysta (Green),Gemma,"Physical Pierce % 5
+Critical Damage 7
+Unsheathe Attack % 9",2026-01-18 12:22:04.293234+00,Cerberus -> Pyxtica -> Gemma -> Meteora
+2196,Midsummer Passion,Weapon Crysta,,"MaxHP % 15
+Critical Rate 20
+Fire resistance % 25
+Recoil % 3",2026-01-18 12:22:04.293234+00,-
+2197,Mieli,Additional Crysta,,"MaxHP % -20
+Magic Pierce % 10
+ASPD 400
+CSPD 400
+Critical Rate % 20",2026-01-18 12:22:04.293234+00,-
+2198,Mimesia,Enhancer Crysta (Green),Cerabes,"MaxHP 2000
+Critical Damage 2",2026-01-18 12:22:04.293234+00,Cerabes -> Mimesia
+2199,Minotaur,Normal Crysta,,"MaxHP % 5
+ASPD % 10",2026-01-18 12:22:04.293234+00,-
+2200,Miracle Potum,Weapon Crysta,,"MaxHP % -10
+Evasion Recharge % 5",2026-01-18 12:22:04.293234+00,-
+2201,Mithurna Lynx,Normal Crysta,,"Stability % 3
+Evasion Recharge % 3
+Short Range Damage % 3
+Long Range Damage % -9",2026-01-18 12:22:04.293234+00,-
+2202,Mochelo,Normal Crysta,,"MaxHP % 5
+CSPD % 10",2026-01-18 12:22:04.293234+00,-
+2203,Mom Fluck,Enhancer Crysta (Green),Ifrid,"MaxMP 700
+Fractional Barrier % 15",2026-01-18 12:22:04.293234+00,Ifrid -> Mom Fluck
+2204,Moonlight Potum,Weapon Crysta,,"CSPD -90
+Attack MP Recovery 3",2026-01-18 12:22:04.293234+00,-
+2205,Mozto Machina,Enhancer Crysta (Red),Demon's Gate,"DEX % 4
+MATK % 6
+CSPD % 2",2026-01-18 12:22:04.293234+00,Demon's Gate -> Mozto Machina
+2206,MP+100,Normal Crysta,,MaxMP 100,2026-01-18 12:22:04.293234+00,-
+2207,MP+150,Normal Crysta,,MaxMP 150,2026-01-18 12:22:04.293234+00,-
+2208,MP+200,Normal Crysta,,MaxMP 200,2026-01-18 12:22:04.293234+00,-
+2209,MP+250,Normal Crysta,,MaxMP 250,2026-01-18 12:22:04.293234+00,-
+2210,MP+300,Normal Crysta,,MaxMP 300,2026-01-18 12:22:04.293234+00,-
+2211,MP+350,Normal Crysta,,MaxMP 350,2026-01-18 12:22:04.293234+00,-
+2212,MP+400,Normal Crysta,,MaxMP 400,2026-01-18 12:22:04.293234+00,-
+2213,MP+50,Normal Crysta,,MaxMP 50,2026-01-18 12:22:04.293234+00,-
+2214,Mulgoon's Hand,Armor Crysta,,"MaxHP 10000
+MaxMP -100
+Accuracy % 5
+Short Range Damage % 6
+Long Range Damage % 4",2026-01-18 12:22:04.293234+00,-
+2215,Mysterious Crystal,Enhancer Crysta (Purple),Eerie Crystal,"Attack MP Recovery 5
+Stability % 5
+Unsheathe Attack % 5
+Attack MP Recovery 5",2026-01-18 12:22:04.293234+00,Eerie Crystal -> Mysterious Crystal
+2216,Narumi Hina,Additional Crysta,,"MATK % 4
+CSPD % 20
+Aggro % -10
+Long Range Damage % 3",2026-01-18 12:22:04.293234+00,-
+2217,Neewollah,Enhancer Crysta (Yellow),Zarth,"Critical Damage 5
+Fire resistance % 10
+Attack MP Recovery 15",2026-01-18 12:22:04.293234+00,Pumpking -> Jeila -> Zoe -> Zarth -> Neewollah
+2218,Neo Maton Sword,Weapon Crysta,,"ATK % 7
+MATK % 7
+Aggro % -28
+Reduce Dmg (Bullet) % 14
+Reduce Dmg (Bowling) % 14",2026-01-18 12:22:04.293234+00,-
+2219,Neo Wandering Wheel,Enhancer Crysta (Yellow),Wandering Wheel,"MATK % 5
+CSPD % 75
+Long Range Damage % -16",2026-01-18 12:22:04.293234+00,Grass Dragon Yelb -> Wandering Wheel -> Neo Wandering Wheel
+2220,Nightmare Potum,Weapon Crysta,,"MaxHP % -5
+Aggro % 10
+Fractional Barrier % 2",2026-01-18 12:22:04.293234+00,-
+2221,Noeliel,Armor Crysta,,"MATK % 5
+CSPD % 3
+Attack MP Recovery % 1",2026-01-18 12:22:04.293234+00,-
+2222,Noeliel the Ice Statue,Enhancer Crysta (Green),Noeliel,"MATK % 5
+CSPD % 30
+Attack MP Recovery % 10",2026-01-18 12:22:04.293234+00,Noeliel -> Noeliel the Ice Statue
+2223,Nurethoth,Normal Crysta,,"ATK % 3
+MATK % 3
+ASPD -150
+CSPD -150",2026-01-18 12:22:04.293234+00,-
+2224,Nuthoreth,Enhancer Crysta (Blue),Nurethoth,"ATK % 2
+MATK % 2
+ASPD 150
+CSPD 150",2026-01-18 12:22:04.293234+00,Nurethoth -> Nuthoreth
+2225,Oculasignio,Enhancer Crysta (Red),Finstern the Dark Dragon,"MaxMP 300
+MATK % 9
+Guard Break % 13",2026-01-18 12:22:04.293234+00,Imitacia -> Finstern the Dark Dragon -> Oculasignio
+2226,Odelon Machina,Normal Crysta,,"Dodge % -5
+Evasion Recharge % -5
+Unsheathe Attack % 10",2026-01-18 12:22:04.293234+00,-
+2227,Olobaid,Special Crysta,,"Physical Resistance % 10
+Magic Resistance % 10
+Dark resistance % 20
+Aggro % 20",2026-01-18 12:22:04.293234+00,-
+2228,Omochi,Additional Crysta,,Drop Rate % 1,2026-01-18 12:22:04.293234+00,-
+2229,Ooze,Special Crysta,,"ATK % 2
+MATK % 2
+DEF % -2
+MDEF % -2",2026-01-18 12:22:04.293234+00,-
+2230,Orictoceras,Enhancer Crysta (Blue),Fanadon,"Critical Damage 9
+Reduce Dmg (Player Epicenter) % -3
+Reduce Dmg (Foe Epicenter) % -3",2026-01-18 12:22:04.293234+00,Fanadon -> Orictoceras
+2231,Ornlarf,Enhancer Crysta (Green),Iconos,"MaxHP 3000
+Weapon ATK % 3",2026-01-18 12:22:04.293234+00,Boss Roga -> Iconos -> Ornlarf
+2232,Ox King,Additional Crysta,,Aggro % -20,2026-01-18 12:22:04.293234+00,-
+2233,P. Avatar,Normal Crysta,,"Fire resistance % 1
+Water resistance % 1
+Wind resistance % 1
+Earth resistance % 1
+Light resistance % 1
+Dark resistance % 1
+EXP Gain % 1",2026-01-18 12:22:04.293234+00,-
+2234,Panchos Kita Makura,Normal Crysta,,"Accuracy 3
+Critical Rate 5
+EXP Gain % 1",2026-01-18 12:22:04.293234+00,-
+2235,Patissia,Enhancer Crysta (Purple),Tapir,"Accuracy 25
+Attack MP Recovery 15",2026-01-18 12:22:04.293234+00,Eerie Crystal -> Tapir -> Patissia
+2236,Pedrio,Enhancer Crysta (Red),Neo Maton Sword,"ATK % 10
+MATK % 10
+Aggro % -40
+Reduce Dmg (Bullet) % 20
+Reduce Dmg (Bowling) % 20",2026-01-18 12:22:04.293234+00,Neo Maton Sword -> Pedrio
+2237,Perro,Additional Crysta,,Drop Rate % 1,2026-01-18 12:22:04.293234+00,-
+2238,Phantom Melody Margrave,Enhancer Crysta (Red),Xmas Princess in Black,"STR % 4
+INT % 4
+ATK % 12
+MATK % 12
+Long Range Damage % -6
+Tumble Unavailable 0
+Aggro % -50",2026-01-18 12:22:04.293234+00,Xmas Princess in Black -> Phantom Melody Margrave
+2239,Phantom Wisp,Armor Crysta,,"Accuracy % 20
+Critical Rate 10
+Evasion Recharge % 10
+Absolute Dodge % 5",2026-01-18 12:22:04.293234+00,-
+2240,Pillar Golem,Weapon Crysta,,"MaxMP 300
+Physical Pierce % 3
+Short Range Damage % 3",2026-01-18 12:22:04.293234+00,-
+2241,Pillorocas,Enhancer Crysta (Yellow),,"Physical Resistance % 5
+Magic Resistance % 5
+Critical Rate -5
+Critical Rate % 50",2026-01-18 12:22:04.293234+00,Pillorocas
+2242,Pillow Kitagawa,Enhancer Crysta (Yellow),Ox King,"MaxHP 2000
+Critical Rate 4
+Revive Time % 20
+Unsheathe Attack % 8",2026-01-18 12:22:04.293234+00,Ox King -> Pillow Kitagawa
+2383,Pioner,normal Crysta,-,Drop Rate % +1,2026-01-24 16:58:02.652531+00,-
+2243,Piscruva,Enhancer Crysta (Blue),Guard Golem,"ATK % 11
+MATK % 11
+ASPD -300
+CSPD -300",2026-01-18 12:22:04.293234+00,Nurethoth -> Guignol -> Guard Golem -> Piscruva
+2244,Pisteus,Enhancer Crysta (Red),Mozto Machina,"DEX % 5
+MATK % 7
+CSPD % 3",2026-01-18 12:22:04.293234+00,Demon's Gate -> Mozto Machina -> Pisteus
+2245,Platinum Potum,Enhancer Crysta (Blue),King Potum,"MaxHP % 20
+Physical Resistance % -10
+Magic Resistance % -10",2026-01-18 12:22:04.293234+00,King Potum -> Platinum Potum
+2246,Pomie Chan,Weapon Crysta,,"AGI % 5
+ATK % 5
+Aggro % -5
+Absolute Dodge % 5",2026-01-18 12:22:04.293234+00,-
+2247,Pomie Chan II,Enhancer Crysta (Red),Pomie Chan,"AGI % 7
+ATK % 9
+Aggro % -15
+Absolute Dodge % 5",2026-01-18 12:22:04.293234+00,Pomie Chan -> Pomie Chan II
+2248,Pomie Chan III,Enhancer Crysta (Red),Pomie Chan II,"AGI % 10
+ATK % 12
+Aggro % -20
+Absolute Dodge % 10",2026-01-18 12:22:04.293234+00,Pomie Chan -> Pomie Chan II -> Pomie Chan III
+2249,Potumotter,Special Crysta,,"MaxMP 400
+Aggro % -30
+Neutral Resistance % 20",2026-01-18 12:22:04.293234+00,-
+2250,Primordial Moonlit,Weapon Crysta,,"MaxHP % 10
+MaxMP -200
+ATK % 10
+MATK % 10
+Anticipate % 10
+Guard Break % 10",2026-01-18 12:22:04.293234+00,-
+2251,Proto Leon,Enhancer Crysta (Yellow),Warmonger,"Critical Rate 8
+Critical Damage 3",2026-01-18 12:22:04.293234+00,Warmonger -> Proto Leon
+2252,Prudent Blue Shadow,Enhancer Crysta (Yellow),Baphomela,"MaxMP -150
+Short Range Damage % 8
+Long Range Damage % 8
+Unsheathe Attack % 8",2026-01-18 12:22:04.293234+00,Twilight Dragon -> Baphomela -> Prudent Blue Shadow
+2253,Pumpking,Additional Crysta,,"Critical Damage 1
+Fire resistance % 2
+Attack MP Recovery 3",2026-01-18 12:22:04.293234+00,-
+2254,Purro,Additional Crysta,,Drop Rate % 1,2026-01-18 12:22:04.293234+00,-
+2255,Pyxtica,Enhancer Crysta (Green),Cerberus,"Physical Pierce % 4
+Critical Damage 4
+Unsheathe Attack % 4",2026-01-18 12:22:04.293234+00,Cerberus -> Pyxtica
+2256,Queen Rosemee,Enhancer Crysta (Red),Clawed Iron Witch,"Magic Pierce % 5
+Critical Rate % 5
+Attack MP Recovery 5
+Long Range Damage % 5",2026-01-18 12:22:04.293234+00,Zahhak Machina -> Clawed Iron Witch -> Queen Rosemee
+2257,Radibat,Normal Crysta,,"Stability % 4
+Accuracy % 4
+Critical Rate % 4",2026-01-18 12:22:04.293234+00,-
+2258,Raging Dragon Bovinari,Enhancer Crysta (Red),,"Attack MP Recovery 15
+Short Range Damage % 7
+Physical Barrier 3000
+Magic Barrier 3000",2026-01-18 12:22:04.293234+00,Raging Dragon Bovinari
+2259,Rampion,Normal Crysta,,"Stability % 2
+Critical Rate % 10
+Short Range Damage % -1",2026-01-18 12:22:04.293234+00,-
+2260,Red Ash Dragon Rudis,Enhancer Crysta (Blue),Gravicep,"MaxHP -300
+MaxMP 200
+Accuracy % 5
+Critical Rate -7
+Short Range Damage % 9",2026-01-18 12:22:04.293234+00,Gravicep -> Red Ash Dragon Rudis
+2261,Remnant of Beyond,Normal Crysta,,"Physical Pierce % 5
+ASPD -250
+Short Range Damage % 10",2026-01-18 12:22:04.293234+00,-
+2262,Repthon,Enhancer Crysta (Red),Zolban,"Natural HP Regen % -10
+Natural MP Regen % -10
+ATK % 6
+MATK % 6",2026-01-18 12:22:04.293234+00,Zolban -> Repthon
+2263,Rhinosaur,Enhancer Crysta (Blue),Minotaur,"MaxHP % 10
+ATK % 5
+ASPD % 15",2026-01-18 12:22:04.293234+00,Minotaur -> Rhinosaur
+2264,Royal Ox King,Enhancer Crysta (Yellow),Ox King,"MaxHP % -20
+MaxMP 200
+Accuracy 40
+Short Range Damage % 8",2026-01-18 12:22:04.293234+00,Ox King -> Royal Ox King
+2265,Royal Ox King II,Enhancer Crysta (Yellow),Royal Ox King,"MaxHP % -30
+MaxMP 200
+Accuracy 50
+Short Range Damage % 12",2026-01-18 12:22:04.293234+00,Ox King -> Royal Ox King -> Royal Ox King II
+2266,Ruin Golem,Normal Crysta,,"MaxHP 200
+MDEF % 5
+Magic Resistance % 1",2026-01-18 12:22:04.293234+00,-
+2267,Ruzart,Special Crysta,,"Dodge 10
+Critical Rate 10",2026-01-18 12:22:04.293234+00,-
+2268,Salamander,Enhancer Crysta (Blue),Gespenst,"MaxMP 200
+ATK % 1
+MATK % 1",2026-01-18 12:22:04.293234+00,Gespenst -> Salamander
+2269,Sand Bandits Leader,Enhancer Crysta (Purple),Violaccoon,"MATK % -5
+Evasion Recharge % 8
+Aggro % 16",2026-01-18 12:22:04.293234+00,Violaccoon -> Sand Bandits Leader
+2270,Sapphire Roga,Enhancer Crysta (Green),Ornlarf,"MaxHP 4000
+Weapon ATK % 4",2026-01-18 12:22:04.293234+00,Boss Roga -> Iconos -> Ornlarf -> Sapphire Roga
+2271,Scrader,Normal Crysta,,"Natural MP Regen % -10
+MaxHP 300
+MATK % 3
+Physical Resistance % -20
+Long Range Damage % 2",2026-01-18 12:22:04.293234+00,-
+2272,Scream Shadow,Special Crysta,,"MaxMP 300
+DEF % -40
+CSPD 1000
+Critical Rate % 20",2026-01-18 12:22:04.293234+00,-
+2273,Seele Zauga,Special Crysta,,"Physical Resistance % 5
+Magic Resistance % 5
+Critical Rate 15
+Item Cooldown -1",2026-01-18 12:22:04.293234+00,-
+2274,Seele Zauga II,Enhancer Crysta (Purple),,"Physical Resistance % 10
+Magic Resistance % 10
+Critical Rate 20
+Item Cooldown -1",2026-01-18 12:22:04.293234+00,Seele Zauga II
+2275,Seltirios,Additional Crysta,,"MaxMP -150
+CSPD 300",2026-01-18 12:22:04.293234+00,-
+2276,Seraph Machina,Enhancer Crysta (Blue),Big Coryn,"Physical Resistance % 3
+Magic Resistance % 3
+Ailment Resistance % 3",2026-01-18 12:22:04.293234+00,Big Coryn -> Seraph Machina
+2277,Shadow Devil Cavalier,Enhancer Crysta (Yellow),,"MaxMP -100
+ATK % 6
+Stability % 6
+Light resistance % -10
+Short Range Damage % 6
+Revive Time % 10",2026-01-18 12:22:04.293234+00,Shadow Devil Cavalier
+2278,Shampy,Enhancer Crysta (Red),Evil Crystal Beast,"MATK % 6
+Magic Pierce % 5
+MDEF % -18
+Aggro % -7",2026-01-18 12:22:04.293234+00,Evil Crystal Beast -> Shampy
+2279,Shawle,Normal Crysta,,"Accuracy % 20
+Aggro % 10
+Anticipate % 5
+Guard Break % 5",2026-01-18 12:22:04.293234+00,-
+2280,Shining Gentleman,Special Crysta,,"ATK % 1
+MATK % 1
+Critical Damage % 1
+Attack MP Recovery 3",2026-01-18 12:22:04.293234+00,-
+2281,Sibylares,Armor Crysta,,"MaxMP -100
+ATK % 5
+MATK % 5
+Physical Pierce % 5
+Magic Pierce % 5
+Critical Rate 15",2026-01-18 12:22:04.293234+00,-
+2282,Sicanokami,Enhancer Crysta (Purple),Patissia,"Accuracy 50
+Attack MP Recovery 20
+Short Range Damage % 5
+Long Range Damage % 5",2026-01-18 12:22:04.293234+00,Eerie Crystal -> Tapir -> Patissia -> Sicanokami
+2283,Silver Roar,Normal Crysta,,"MaxHP % -8
+Attack MP Recovery 4",2026-01-18 12:22:04.293234+00,-
+2284,Skelerow,Enhancer Crysta (Green),Canemofish,"Water resistance % 10
+Dark resistance % 10
+Attack MP Recovery 15
+Barrier Cooldown % 20",2026-01-18 12:22:04.293234+00,Canemofish -> Skelerow
+2285,Soldner,Enhancer Crysta (Yellow),Chocolate Ooze II,"MaxHP % -20
+MaxMP 400
+CSPD 800",2026-01-18 12:22:04.293234+00,Chocolate Ooze -> Chocolate Ooze II -> Soldner
+2286,Solopy,Enhancer Crysta (Yellow),Golden Skeleton,"MaxHP % -15
+ASPD 450",2026-01-18 12:22:04.293234+00,Golden Skeleton -> Solopy
+2287,Specter of Death,Special Crysta,,"Accuracy % 15
+Aggro % -20
+Unsheathe Attack % 10",2026-01-18 12:22:04.293234+00,-
+2288,Springtime Sakura,Enhancer Crysta (Red),Kuzto,"MATK % 11
+Critical Rate 13
+Aggro % -15",2026-01-18 12:22:04.293234+00,Kuzto -> Springtime Sakura
+2289,Squirinja,Enhancer Crysta (Green),Baavgai,"MaxHP 10000
+Critical Damage 9
+Short Range Damage % 6
+Evasion Recharge % 25",2026-01-18 12:22:04.293234+00,Cerabes -> Mimesia -> Dreamy Scarlet Sakura -> Baavgai -> Squirinja
+2290,Star Wizard,Special Crysta,,"MATK % 9
+CSPD % 9
+Anticipate % 9
+Aggro % 9
+Aggro % -9",2026-01-18 12:22:04.293234+00,-
+2291,Stellar Ooze,Enhancer Crysta (Yellow),Gespenst II,"MaxMP 300
+Accuracy 60
+CSPD 600
+Critical Rate 20",2026-01-18 12:22:04.293234+00,Gespenst II -> Stellar Ooze
+2292,Stellar Ooze II,Special Crysta,,"Natural MP Regen % 15
+MaxMP 150
+ATK % 5
+Physical Pierce % 5
+Revive Time % 60
+Unsheathe Attack % 5
+Reduce Dmg (Bowling) % 15",2026-01-18 12:22:04.293234+00,-
+2293,Stone Mercenary,Special Crysta,,"ATK % -6
+Guard Recharge % 4
+Aggro % 8",2026-01-18 12:22:04.293234+00,-
+2294,STR+1,Normal Crysta,,STR 1,2026-01-18 12:22:04.293234+00,-
+2295,STR+2,Normal Crysta,,STR 2,2026-01-18 12:22:04.293234+00,-
+2296,STR+3,Normal Crysta,,STR 3,2026-01-18 12:22:04.293234+00,-
+2297,STR+4,Normal Crysta,,STR 4,2026-01-18 12:22:04.293234+00,-
+2298,STR+5,Normal Crysta,,STR 5,2026-01-18 12:22:04.293234+00,-
+2299,STR+6,Normal Crysta,,STR 6,2026-01-18 12:22:04.293234+00,-
+2300,STR+7,Normal Crysta,,STR 7,2026-01-18 12:22:04.293234+00,-
+2301,Sunlight Potum,Additional Crysta,,"MaxHP % -5
+MaxMP -75
+ASPD 300
+CSPD 300",2026-01-18 12:22:04.293234+00,-
+2302,Super Death Mushroom,Enhancer Crysta (Green),Jade Raptor,"MaxMP 400
+CSPD 200
+Attack MP Recovery 3",2026-01-18 12:22:04.293234+00,Jade Raptor -> Super Death Mushroom
+2303,Super Night Mushroom,Normal Crysta,,"MaxHP 500
+Short Range Damage % 1
+Long Range Damage % 1",2026-01-18 12:22:04.293234+00,-
+2305,Supreme Evil Crystal Beast,Enhancer Crysta (Red),Vlam the Flame Dragon,"MaxMP 400
+Physical Pierce % 10
+Short Range Damage % 8",2026-01-18 12:22:04.293234+00,Pillar Golem -> Ultimate Machina -> Vlam the Flame Dragon -> Supreme Evil Crystal Beast
+2304,Supreme Evil Crystal Beast,Enhancer Crysta (Red),Vlam the Flame Dragon,"Physical Pierce % 10
+Short Range Damage % 8
+MP 400",2026-01-18 12:22:04.293234+00,Pillar Golem -> Ultimate Machina -> Vlam the Flame Dragon -> Supreme Evil Crystal Beast
+2306,Tapir,Enhancer Crysta (Purple),Eerie Crystal,Attack MP Recovery 10,2026-01-18 12:22:04.293234+00,Eerie Crystal -> Tapir
+2307,Tappler,Enhancer Crysta (Blue),Odelon Machina,"MaxMP -50
+Dodge % -5
+Evasion Recharge % -3
+Unsheathe Attack % 12",2026-01-18 12:22:04.293234+00,Odelon Machina -> Tappler
+2308,Tardigrademon,Enhancer Crysta (Yellow),Seltirios,"MaxMP -200
+CSPD 450",2026-01-18 12:22:04.293234+00,Seltirios -> Tardigrademon
+2309,Teertocrit,Enhancer Crysta (Purple),Dark Mushroom,"ATK % 6
+MATK % 6
+Motion Speed % 2",2026-01-18 12:22:04.293234+00,Dark Mushroom -> Teertocrit
+2310,The Great Witch of Crow,Armor Crysta,,"Stability % 4
+Ailment Resistance % -14
+Motion Speed % 2
+Absolute Accuracy % 1",2026-01-18 12:22:04.293234+00,-
+2311,Thug Golem,Armor Crysta,,"CSPD % 15
+Aggro % -20
+Fractional Barrier % 10",2026-01-18 12:22:04.293234+00,-
+2312,Titeres,Special Crysta,,"Dodge 20
+Dodge % 10
+Attack MP Recovery 10
+Absolute Dodge % 5",2026-01-18 12:22:04.293234+00,-
+2313,Top-Star Potum,Enhancer Crysta (Yellow),Sunlight Potum,"MaxHP % -10
+MaxMP -150
+ASPD 900
+CSPD 900",2026-01-18 12:22:04.293234+00,Sunlight Potum -> Top-Star Potum
+2314,Torexesa,Enhancer Crysta (Blue),Black Shadow,"MaxMP -200
+ATK % 10
+MATK % 10
+Attack MP Recovery 4",2026-01-18 12:22:04.293234+00,Brutal Dragon Decel -> York -> Tuscog -> Black Shadow -> Torexesa
+2315,Tortuga,Armor Crysta,,"MaxHP % 1
+Physical Resistance % 3
+Guard Recharge % 5",2026-01-18 12:22:04.293234+00,-
+2316,Trickster Dragon Mimyugon,Enhancer Crysta (Red),Vulture,"DEX % 7
+ATK % 9
+ASPD % 5",2026-01-18 12:22:04.293234+00,Ganglef -> Tyrant Machina -> Vulture -> Trickster Dragon Mimyugon
+2317,Trocostida,Enhancer Crysta (Yellow),Dusk Machina,"MaxHP % 20
+Critical Rate 5
+Aggro % 15
+Long Range Damage % -10",2026-01-18 12:22:04.293234+00,Dusk Machina -> Trocostida
+2318,Trus,Special Crysta,,"Physical Pierce % 10
+Guard Break % 10
+Stun Unavailable 1
+2-Handed Sword only:
+Guard Power % 25
+Guard Recharge % 25",2026-01-18 12:22:04.293234+00,-
+2319,Tuscog,Enhancer Crysta (Blue),York,"MaxMP -100
+ATK % 6
+MATK % 6
+Attack MP Recovery 2",2026-01-18 12:22:04.293234+00,Brutal Dragon Decel -> York -> Tuscog
+2320,Twilight Dragon,Additional Crysta,,"Short Range Damage % 4
+Long Range Damage % 4
+Unsheathe Attack % 4",2026-01-18 12:22:04.293234+00,-
+2321,Tyrant Machina,Enhancer Crysta (Red),Ganglef,"DEX % 4
+ATK % 6
+ASPD % 2",2026-01-18 12:22:04.293234+00,Ganglef -> Tyrant Machina
+2322,Ultimate Machina,Enhancer Crysta (Red),Pillar Golem,"MaxMP 400
+Physical Pierce % 4
+Short Range Damage % 4",2026-01-18 12:22:04.293234+00,Pillar Golem -> Ultimate Machina
+2323,Ultra Potum,Enhancer Crysta (Red),Miracle Potum,"Evasion Recharge % 15
+Long Range Damage % 10
+Additional Melee % 20",2026-01-18 12:22:04.293234+00,Miracle Potum -> Ultra Potum
+2324,Underwater Ruins Monster,Enhancer Crysta (Yellow),Adaro,"MaxHP 1000
+MATK % 8
+Critical Damage 8
+Aggro % 20",2026-01-18 12:22:04.293234+00,Adaro -> Underwater Ruins Monster
+2325,Usakichi,Armor Crysta,,"MaxMP 100
+ATK % 1
+Neutral Resistance % -1
+Unsheathe Attack % 1",2026-01-18 12:22:04.293234+00,-
+2326,Usami,Enhancer Crysta (Green),Usakichi,"MaxMP 300
+ATK % 3
+Neutral Resistance % -10
+Unsheathe Attack % 3",2026-01-18 12:22:04.293234+00,Usakichi -> Usami
+2327,Usamochi,Enhancer Crysta (Green),Usami,"MaxMP 300
+ATK % 6
+Neutral Resistance % -10
+Unsheathe Attack % 6",2026-01-18 12:22:04.293234+00,Usakichi -> Usami -> Usamochi
+2328,Usasama the Necromancer,Weapon Crysta,,"MaxHP % -25
+MATK % 6
+CSPD % 12
+Motion Speed % 3
+Attack MP Recovery % -50",2026-01-18 12:22:04.293234+00,-
+2329,Usasama the Necromancer II,Enhancer Crysta (Red),Usasama the Necromancer,"MaxHP % -15
+MATK % 7
+CSPD % 14
+Motion Speed % 3
+Attack MP Recovery % -30",2026-01-18 12:22:04.293234+00,Usasama the Necromancer -> Usasama the Necromancer II
+2330,Vatudo,Enhancer Crysta (Red),Irestida,"MATK % 10
+Magic Pierce % 7
+MDEF % -30
+Aggro % -11",2026-01-18 12:22:04.293234+00,Evil Crystal Beast -> Shampy -> Irestida -> Vatudo
+2389,Velcaroy,UPGRADE,Broker Goblin,"MaxMP 300 Long Range Demage % 5
+ with Arrow: Long Range Damage % 7 With Dagger: Addtional Melee % 75",2026-02-12 23:35:58.865446+00,Broker Goblin -> Velcaroy
+2331,Velum,Enhancer Crysta (Red),Mardula,"MaxMP -100
+ATK % 9
+Attack MP Recovery 6
+Anticipate % 13",2026-01-18 12:22:04.293234+00,Imitator -> Mardula -> Velum
+2332,Venena,Special Crysta,,"MaxMP 500
+ATK % 1
+MATK % 1
+Stability % 2",2026-01-18 12:22:04.293234+00,-
+2333,Venena II,Enhancer Crysta (Purple),Venena,"MaxMP 600
+ATK % 2
+MATK % 2
+Stability % 3",2026-01-18 12:22:04.293234+00,Venena -> Venena II
+2334,Vevela,Enhancer Crysta (Blue),Caspy,"Ailment Resistance % -15
+Guard Power % 5
+Guard Recharge % 5
+Evasion Recharge % 5
+Motion Speed % 3",2026-01-18 12:22:04.293234+00,Caspy -> Vevela
+2335,Violaccoon,Special Crysta,,"MATK % -6
+Evasion Recharge % 4
+Aggro % 8",2026-01-18 12:22:04.293234+00,-
+2336,Viscum,Special Crysta,,"MaxHP 100
+Attack MP Recovery 3",2026-01-18 12:22:04.293234+00,-
+2337,VIT+2,Normal Crysta,,VIT 2,2026-01-18 12:22:04.293234+00,-
+2338,VIT+3,Normal Crysta,,VIT 3,2026-01-18 12:22:04.293234+00,-
+2339,VIT+4,Normal Crysta,,VIT 4,2026-01-18 12:22:04.293234+00,-
+2340,VIT+5,Normal Crysta,,VIT 5,2026-01-18 12:22:04.293234+00,-
+2341,VIT+6,Normal Crysta,,VIT 6,2026-01-18 12:22:04.293234+00,-
+2342,VIT+7,Normal Crysta,,VIT 7,2026-01-18 12:22:04.293234+00,-
+2343,VIT+8,Normal Crysta,,,2026-01-18 12:22:04.293234+00,-
+2344,Vlam the Flame Dragon,Enhancer Crysta (Red),Ultimate Machina,"MaxMP 400
+Physical Pierce % 7
+Short Range Damage % 6",2026-01-18 12:22:04.293234+00,Pillar Golem -> Ultimate Machina -> Vlam the Flame Dragon
+2345,Vodre,Special Crysta,,"Physical Resistance % 5
+Magic Resistance % 5
+Critical Damage -150
+Anticipate % 5",2026-01-18 12:22:04.293234+00,-
+2346,Volgagon,Special Crysta,,"ASPD 1000
+CSPD % -80
+Critical Rate % 20",2026-01-18 12:22:04.293234+00,-
+2347,Volotur,Enhancer Crysta (Blue),Gigant Knight,"STR % 2
+ATK % 2
+Accuracy % -10
+Critical Rate % -10
+Critical Damage 2",2026-01-18 12:22:04.293234+00,Gigant Knight -> Volotur
+2348,Vulture,Enhancer Crysta (Red),Tyrant Machina,"DEX % 5
+ATK % 7
+ASPD % 3",2026-01-18 12:22:04.293234+00,Ganglef -> Tyrant Machina -> Vulture
+2349,Walican,Enhancer Crysta (Green),Ferzen the Rock Dragon,"MaxHP 6000
+Weapon ATK % 6",2026-01-18 12:22:04.293234+00,Boss Roga -> Iconos -> Ornlarf -> Sapphire Roga -> Ferzen the Rock Dragon -> Walican
+2350,Wandering Wheel,Enhancer Crysta (Yellow),Grass Dragon Yelb,"ATK % 5
+ASPD % 75
+Long Range Damage % -14",2026-01-18 12:22:04.293234+00,Grass Dragon Yelb -> Wandering Wheel
+2351,War Dragon Turba,Enhancer Crysta (Purple),Zelbuse,"MaxMP -200
+Accuracy % 17
+Critical Rate 11
+Weapon ATK % 14",2026-01-18 12:22:04.293234+00,Bexiz -> Zelbuse -> War Dragon Turba
+2352,Warmonger,Additional Crysta,,"Critical Rate 6
+Critical Damage 2",2026-01-18 12:22:04.293234+00,-
+2353,Wicked Dragon Fazzino,Enhancer Crysta (Red),Pisteus,"DEX % 7
+MATK % 9
+CSPD % 5",2026-01-18 12:22:04.293234+00,Demon's Gate -> Mozto Machina -> Pisteus -> Wicked Dragon Fazzino
+2354,Wild Beast Lixi,Enhancer Crysta (Blue),Rhinosaur,"MaxHP % 15
+MaxMP -100
+ATK % 10
+ASPD % 20",2026-01-18 12:22:04.293234+00,Minotaur -> Rhinosaur -> Wild Beast Lixi
+2355,Wiltileaf,Enhancer Crysta (Blue),Ageladanios,"ATK % 9
+Magic Resistance % -15
+Critical Damage 12
+Motion Speed % 0",2026-01-18 12:22:04.293234+00,Metal Stinger -> Lyark Master Specialist -> Ageladanios -> Wiltileaf
+2356,Wolkissa,Special Crysta,,"VIT % 5
+Ailment Resistance % 5
+Attack MP Recovery 5
+Aggro % 15",2026-01-18 12:22:04.293234+00,-
+2357,Xmas Princess in Black,Weapon Crysta,,"STR % 3
+INT % 3
+ATK % 9
+MATK % 9
+Long Range Damage % -6
+Tumble Unavailable 1
+Aggro % -50",2026-01-18 12:22:04.293234+00,-
+2358,Yashiro Azuki,Normal Crysta,,"MaxHP 200
+MaxMP 100
+EXP Gain % 1",2026-01-18 12:22:04.293234+00,-
+2359,Yashiro Azuki's Dad,Additional Crysta,,"ATK % 4
+ASPD % 20
+Aggro % -10
+Short Range Damage % 3",2026-01-18 12:22:04.293234+00,-
+2360,Yashiro Azuki's Mom,Additional Crysta,,"Physical Resistance % 5
+Magic Resistance % 5
+Critical Rate 10
+Reduce Dmg (Bullet) % 10",2026-01-18 12:22:04.293234+00,-
+2361,Yashiro Azuki's Mom II,Enhancer Crysta (Yellow),Narumi Hina,"MATK % 5
+CSPD % 20
+Aggro % -10
+Long Range Damage % 3",2026-01-18 12:22:04.293234+00,Narumi Hina -> Yashiro Azuki's Mom II
+2362,York,Enhancer Crysta (Blue),Brutal Dragon Decel,"MaxMP -75
+ATK % 4
+MATK % 4
+Attack MP Recovery 1",2026-01-18 12:22:04.293234+00,Brutal Dragon Decel -> York
+2363,Yule Cat,Enhancer Crysta (Green),Noeliel the Ice Statue,"INT % 3
+MATK % 7
+CSPD % 35
+Attack MP Recovery % 10",2026-01-18 12:22:04.293234+00,Noeliel -> Noeliel the Ice Statue -> Yule Cat
+2364,Yuveria,Enhancer Crysta (Green),Gopherga,"MaxMP 300
+Physical Resistance % 3
+Magic Resistance % 3
+Aggro % -15
+Short Range Damage % 6",2026-01-18 12:22:04.293234+00,Gopherga -> Yuveria
+2365,Zahhak Machina,Weapon Crysta,,"Attack MP Recovery 5
+Physical Barrier 1000
+Magic Barrier 1000",2026-01-18 12:22:04.293234+00,-
+2366,Zapo,Enhancer Crysta (Green),Arachnidemon,"MaxHP -400
+MaxMP -400
+ATK % 10
+Critical Rate 10
+STR % 1
+Short Range Damage % 5",2026-01-18 12:22:04.293234+00,Arachnidemon -> Zapo
+2367,Zarth,Enhancer Crysta (Yellow),Zoe,"Critical Damage 4
+Fire resistance % 8
+Attack MP Recovery 12",2026-01-18 12:22:04.293234+00,Pumpking -> Jeila -> Zoe -> Zarth
+2368,Zeagrysta,Special Crysta,,"MaxMP -100
+Stability % 2
+Physical Resistance % 3
+Magic Resistance % 3
+Short Range Damage % 2
+Ailment Resistance % 5",2026-01-18 12:22:04.293234+00,-
+2369,Zega,Weapon Crysta,,"MaxHP 400
+Magic Resistance % 2
+Water resistance % 1
+Attack MP Recovery 3",2026-01-18 12:22:04.293234+00,-
+2370,Zega II,Enhancer Crysta (Red),Zega,"MaxHP 500
+Magic Resistance % 3
+Water resistance % 2
+Attack MP Recovery 4",2026-01-18 12:22:04.293234+00,Zega -> Zega II
+2371,Zega III,Enhancer Crysta (Red),,"MaxHP 600
+Magic Resistance % 4
+Water resistance % 3
+Attack MP Recovery 5",2026-01-18 12:22:04.293234+00,Zega III
+2372,Zega IV,Enhancer Crysta (Red),Zega III,"MaxHP 700
+Magic Resistance % 5
+Water resistance % 4
+Attack MP Recovery 6",2026-01-18 12:22:04.293234+00,Zega III -> Zega IV
+2373,Zega V,Enhancer Crysta (Red),Zega IV,"MaxHP 800
+Magic Resistance % 6
+Water resistance % 5
+Attack MP Recovery 7",2026-01-18 12:22:04.293234+00,Zega III -> Zega IV -> Zega V
+2374,Zega VI,Enhancer Crysta (Red),Zega V,"MaxHP 900
+Magic Resistance % 7
+Water resistance % 6
+Attack MP Recovery 8",2026-01-18 12:22:04.293234+00,Zega III -> Zega IV -> Zega V -> Zega VI
+2375,Zega VII,Enhancer Crysta (Red),Zega VI,"MaxHP 1000
+Magic Resistance % 8
+Water resistance % 7
+Attack MP Recovery 9",2026-01-18 12:22:04.293234+00,Zega III -> Zega IV -> Zega V -> Zega VI -> Zega VII
+2376,Zelbuse,Enhancer Crysta (Purple),Bexiz,"MaxMP -150
+Accuracy % 16
+Critical Rate 8
+Weapon ATK % 12",2026-01-18 12:22:04.293234+00,Bexiz -> Zelbuse
+2382,zodiac's Blessing,purpel crisyta,-,"EXP Gain% +10
+ATK +10
+MATK+10
+ ACCURACY +10
+Critical Rate +10
+DEF +100
+ MDEF +100
+ ASPD +100
+CSPD +100",2026-01-24 16:56:25.818029+00,-
+2377,Zodiac's Blessing,Special Crysta,,"ATK 10
+MATK 10
+DEF 100
+MDEF 100
+Accuracy 10
+ASPD 100
+CSPD 100
+Critical Rate 10
+EXP Gain % 10",2026-01-18 12:22:04.293234+00,-
+2378,Zoe,Enhancer Crysta (Yellow),Jeila,"Critical Damage 3
+Fire resistance % 6
+Attack MP Recovery 9",2026-01-18 12:22:04.293234+00,Pumpking -> Jeila -> Zoe
+2379,Zolban,Weapon Crysta,,"Natural HP Regen % -10
+Natural MP Regen % -10
+ATK % 4
+MATK % 4",2026-01-18 12:22:04.293234+00,-
